@@ -1,0 +1,5 @@
+Start 04/19/2023 - Finish 05/19/2023
+
+Create a simple app that acts as a to do list with a list of actions, a circle chart for data, and pulls current weather from an api. Make it simple. 4 weeks max.
+
+- https://learn.microsoft.com/en-us/dotnet/visual-basic/programming-guide/?source=recommendations
