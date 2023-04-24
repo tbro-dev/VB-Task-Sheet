@@ -1,0 +1,12 @@
+C:\Users\Editor\source\repos\VB-Task-Sheet\Business Logic\obj\Debug\Business Logic.vbproj.AssemblyReference.cache
+C:\Users\Editor\source\repos\VB-Task-Sheet\Business Logic\obj\Debug\Business Logic.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Editor\source\repos\VB-Task-Sheet\Business Logic\obj\Debug\Business_Logic.Resources.resources
+C:\Users\Editor\source\repos\VB-Task-Sheet\Business Logic\obj\Debug\Business Logic.vbproj.GenerateResource.cache
+C:\Users\Editor\source\repos\VB-Task-Sheet\Business Logic\obj\Debug\Business Logic.vbproj.CoreCompileInputs.cache
+C:\Users\Editor\source\repos\VB-Task-Sheet\Business Logic\bin\Debug\Business Logic.exe.config
+C:\Users\Editor\source\repos\VB-Task-Sheet\Business Logic\bin\Debug\Business Logic.exe
+C:\Users\Editor\source\repos\VB-Task-Sheet\Business Logic\bin\Debug\Business Logic.pdb
+C:\Users\Editor\source\repos\VB-Task-Sheet\Business Logic\bin\Debug\Business Logic.xml
+C:\Users\Editor\source\repos\VB-Task-Sheet\Business Logic\obj\Debug\Business Logic.exe
+C:\Users\Editor\source\repos\VB-Task-Sheet\Business Logic\obj\Debug\Business Logic.xml
+C:\Users\Editor\source\repos\VB-Task-Sheet\Business Logic\obj\Debug\Business Logic.pdb
